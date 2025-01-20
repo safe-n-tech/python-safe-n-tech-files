@@ -1,5 +1,7 @@
 # python-safe-n-tech-files
 
+Script qui a permit d'ajouter des ids aux ressources, n'est plus utilisé car les nouveaux articles sont créés avec un id.
+
 ## Contexte
 Le site safe-n-tech est réalisé en Hugo, ce qui permet en autre de stocker le contenu dans des fichiers md tout en ayant des relations et des taxonomies.  
 Cependant, l'identification d'un contenu se fait via son slug, et le slug est une propriété inconstante, modifiable.  
